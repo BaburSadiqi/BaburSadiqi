@@ -27,7 +27,7 @@ My main focus is **Python backend development**, especially APIs, databases, aut
 │  ORM           →  SQLAlchemy             │
 │  Auth          →  Keycloak               │
 │  Migration     →  Alembic                │
-│  Version Ctrl  →  Git / GitHub            │
+│  Version Ctrl  →  Git / GitHub           │
 └──────────────────────────────────────────┘
 ```
 
