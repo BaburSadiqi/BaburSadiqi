@@ -93,7 +93,7 @@ A SaaS platform for pharmaceutical businesses and medicine distribution companie
 
 ### 📊 Nabz
 
-A web-based business management platform developed by **Uzimsoft** for helping businesses manage their daily operations.
+A web-based healthcare management platform developed by **Uzimsoft** for managing clinics, hospitals, and private medical centers. Nabz helps healthcare providers streamline patient management, appointments, doctors, electronic prescriptions, medical records, and day-to-day clinical operations.
 
 ---
 
