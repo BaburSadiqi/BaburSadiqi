@@ -1,165 +1,181 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=250&section=header&text=BABUR%20SADIQI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=BACKEND%20DEVELOPER&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+SQLAlchemy;Building+Modern+SaaS+Applications;Learning+%7C+Building+%7C+Improving" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BaburSadiqi&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Babur Sadiqi**, a Computer Science student and Backend Developer passionate about building modern and scalable software systems.
-
-My main focus is **Python backend development**, especially APIs, databases, authentication, SaaS applications, and clean backend architecture.
-
-```text
-┌──────────────────────────────────────────┐
-│             BACKEND DEVELOPMENT          │
-├──────────────────────────────────────────┤
-│  Python        →  FastAPI                │
-│  Database      →  PostgreSQL             │
-│  ORM           →  SQLAlchemy             │
-│  Auth          →  Keycloak               │
-│  Migration     →  Alembic                │
-│  Version Ctrl  →  Git / GitHub           │
-└──────────────────────────────────────────┘
-```
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" title="SQLAlchemy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
-
-</p>
-
----
-
-## 🚀 What I Build
-
 <div align="center">
 
-|  🔧 Backend  | 🗄️ Database |   🔐 Security  |
-| :----------: | :----------: | :------------: |
-|   REST APIs  |  PostgreSQL  |    Keycloak    |
-|    FastAPI   |  SQLAlchemy  | Authentication |
-| Async Python |    Alembic   |  Authorization |
+# 👋 Babur Sadiqi
+
+### Founder & CEO @ Uzimsoft · Software Engineer · SaaS & Backend
+
+**Building software products, scalable backend systems, and practical solutions for real-world problems.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/babur-sadiqi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:babur.sadiqi77@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F6A&height=100&section=footer" width="100%" />
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 👨‍💻 About
 
-### 🏢 Uzimsoft
+I'm **Babur Sadiqi**, a Software Engineer and Founder & CEO of **[Uzimsoft](https://uzimsoft.com)**.
 
-Software development company focused on building modern digital products, web applications, mobile applications and SaaS platforms.
+My work sits at the intersection of **software engineering, product development, and entrepreneurship**. I enjoy turning real-world problems into reliable software products and designing backend systems that are practical, maintainable, and ready to scale.
 
-### 💊 MedFlow
+My primary technical focus is backend engineering with **Python, FastAPI, PostgreSQL, SQLAlchemy, REST APIs, authentication, and system architecture**.
 
-A SaaS platform for pharmaceutical businesses and medicine distribution companies.
+I'm also interested in **SaaS, AI-powered applications, product architecture, and developer tooling**.
 
-`Medicine Management` · `Warehouse` · `Suppliers` · `Customers` · `Purchases` · `Sales`
-
-### 📊 Nabz
-
-A web-based healthcare management platform developed by **Uzimsoft** for managing clinics, hospitals, and private medical centers. Nabz helps healthcare providers streamline patient management, appointments, doctors, electronic prescriptions, medical records, and day-to-day clinical operations.
+> 💡 **Build products. Solve problems. Keep improving.**
 
 ---
 
-## 📈 GitHub Activity
+## 🚀 What I Work On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaburSadiqi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BaburSadiqi&theme=tokyonight&hide_border=true" width="49%"/>
+|     | Area                                   |
+| --- | -------------------------------------- |
+| 💻  | SaaS & digital products                |
+| ⚙️  | Backend engineering                    |
+| 🔌  | RESTful APIs                           |
+| 🏗️ | System & application architecture      |
+| 🗄️ | Database design                        |
+| 🔐  | Authentication & authorization         |
+| 🤖  | AI-powered applications                |
+| 📦  | Product development                    |
+| 🛠️ | Developer tools & open-source projects |
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" title="SQLAlchemy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alembic/alembic-original.svg" width="50" title="Alembic" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaburSadiqi&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+### Tools & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
+</p>
+
+### Other Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🏢 Uzimsoft
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaburSadiqi&theme=tokyo-night&hide_border=true&area=true&custom_title=Babur%20Sadiqi%20-%20Contribution%20Graph" width="100%"/>
-</p>
+**Uzimsoft** is a software company focused on building modern digital products, SaaS platforms, and custom software solutions.
+
+### Our Approach
+
+<div align="center">
+
+**Understand the problem** <br>
+↓ <br>
+**Design the solution** <br>
+↓ <br>
+**Build** <br>
+↓ <br>
+**Test** <br>
+↓ <br>
+**Improve**
+
+</div>
+
+### 🚀 Products
+
+#### 💊 MedFlow
+
+A SaaS platform designed for businesses operating in Afghanistan's pharmaceutical supply chain.
+
+**Key areas**
+
+`Procurement` · `Imports & Customs` · `Warehouses` · `Inventory` · `Batch Tracking` · `FEFO` · `Distribution`
 
 ---
 
-## 🎯 2026
+#### 🏥 Nabz
+
+A healthcare management platform designed to help clinics and hospitals manage:
+
+`Doctors` · `Patients` · `Staff` · `Appointments` · `Operations` · `Financial Management`
+
+---
+
+## 🌐 Open Source & Experiments
+
+I use GitHub to share engineering experiments, reusable tools, backend patterns, and open-source projects.
+
+### Areas I Enjoy Exploring
+
+* ⚡ FastAPI patterns
+* 🧩 Pydantic & data modeling
+* 🔐 API security
+* 🔄 Response serialization
+* 🛡️ Sensitive data masking
+* 🏗️ Backend architecture
+* 🛠️ Developer tooling
+
+---
+
+## 🧠 Engineering Philosophy
+
+I believe good software engineering is not about using the most technologies.
+
+It is about choosing the **right technology for the problem**, keeping systems understandable, and building software that can evolve.
+
+### Principles I Try to Follow
 
 ```text
-[████████████████████░░░░░] Backend Development
-
-[██████████████████░░░░░░░] SaaS Architecture
-
-[███████████████░░░░░░░░░░] System Design
-
-[████████████░░░░░░░░░░░░░] Docker & Deployment
-
-[██████████░░░░░░░░░░░░░░░] Keycloak
+Solve the right problem.
+Keep the architecture simple.
+Write code that can be maintained.
+Protect sensitive data.
+Test important behavior.
+Build for change.
+Keep learning.
 ```
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/babur-sadiqi-641988247/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:babur.sadiqi77@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### <code></></code> Build • Learn • Improve
+### 👨‍💻 Building. Learning. Improving.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=BaburSadiqi&label=VISITORS&color=0f172a&style=flat-square"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" />
 
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:020617&height=120&section=footer"/>
-</p>
+</div>
