@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👋 Babur Sadiqi
+# Babur Sadiqi
 
-### Founder & CEO @ Uzimsoft · Software Engineer · SaaS & Backend
-
-**Building software products, scalable backend systems, and practical solutions for real-world problems.**
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+%40+Uzimsoft;Software+Engineer;SaaS+%26+Backend;Python+%7C+FastAPI+%7C+PostgreSQL;Building+Digital+Products" alt="Typing SVG" />
+</a>
 
 <br>
+
+Building software products, scalable backend systems, and practical solutions for real-world problems.
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/babur-sadiqi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,10 +19,6 @@
 <a href="mailto:babur.sadiqi77@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F6A&height=100&section=footer" width="100%" />
 
 </div>
 
