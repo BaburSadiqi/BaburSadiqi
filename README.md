@@ -94,6 +94,28 @@ I'm also interested in **SaaS, AI-powered applications, product architecture, an
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/BaburSadiqi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaburSadiqi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" />
+</a>
+
+<a href="https://github.com/BaburSadiqi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaburSadiqi&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/BaburSadiqi">
+  <img src="https://streak-stats.demolab.com?user=BaburSadiqi&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+---
+
 ## 🏢 Uzimsoft
 
 **Uzimsoft** is a software company focused on building modern digital products, SaaS platforms, and custom software solutions.
