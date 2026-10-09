@@ -12,7 +12,7 @@ Building software products, scalable backend systems, and practical solutions fo
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/babur-sadiqi/">
+<a href="https://www.linkedin.com/in/babursadiqi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
