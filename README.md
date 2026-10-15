@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+%40+Uzimsoft;Software+Engineer;SaaS+%26+Backend;Python+%7C+FastAPI+%7C+PostgreSQL;Building+Digital+Products" alt="Typing SVG" />
 </a>
 
+
 <br>
 
 Building software products, scalable backend systems, and practical solutions for real-world problems.
